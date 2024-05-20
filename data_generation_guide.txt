@@ -1,9 +1,9 @@
 first generate 100 serial numbers and add 'customer1'
 
 for each customer
-generate a randome number between 20 - 30
+generate a random number between 20 - 30
 for 1 to above number
-generate randome number and pickup that ticker
-generate randome amount between 500 to 5000
+generate random numbers and pickup that ticker
+generate random amount between 500 to 5000
 
-save this dataframe
+save this dataframe to csv
